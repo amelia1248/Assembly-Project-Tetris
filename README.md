@@ -15,4 +15,5 @@ Some features include:
 - Increased speed/difficulty after 3 rows full
 
 See below for a quick demo:
-![Tetris Gif Demo](https://github.com/amelia1248/Assembly-Project-Tetris/assets/128756325/ca96f9c3-805f-41b6-bf50-9785316b9c62)
+
+<img src="https://github.com/amelia1248/Assembly-Project-Tetris/assets/128756325/ca96f9c3-805f-41b6-bf50-9785316b9c62" width="270" height="270"/>
